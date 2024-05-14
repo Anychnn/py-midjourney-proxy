@@ -5,9 +5,7 @@
 import asyncio
 import uvicorn
 from fastapi import FastAPI
-from blueprints.blueprints_user import user_router
 from blueprints.blueprints_image_generation import image_router
-from blueprints.blueprints_text_generation import text_router
 import yaml
 # from app.app import app
 from support.mj_config import MjConfig
