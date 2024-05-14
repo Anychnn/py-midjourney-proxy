@@ -16,16 +16,12 @@ from wss.mj_wss_proxy import MjWssSercice
 from wss.mj_wss_manager import MjWssManager
 
 router = FastAPI()
-router.include_router(user_router, prefix="/user", tags=["user"])
-router.include_router(text_router, prefix="/text", tags=["文本生成"])
 router.include_router(image_router, prefix="/image", tags=["图片生成"])
 
 @router.on_event("startup")
 async def startup_event():
     pass
 
-
-    
 
 if __name__ == "__main__":
     import argparse
