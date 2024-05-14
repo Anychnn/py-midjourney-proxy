@@ -1,0 +1,2 @@
+# python -m pwiz -e mysql -H 101.43.141.18 -u xiaohongdou -P RLKXMDsPtfBWpRHk xiaohongdou > models.py
+python -m pwiz -e mysql -H localhost -u xiaohongdouapi -P DtcxSyP7aMW8Edws xiaohongdouapi > models.py

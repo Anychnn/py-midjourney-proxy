@@ -1,0 +1,23 @@
+{
+    "type": 2,
+    "application_id": "$app_id$",
+    "guild_id": "$guild_id$",
+    "channel_id": "$channel_id$",
+    "session_id": "$session_id$",
+    "data": {
+        "version": "1237876415471554625",
+        "id": "1092492867185950852",
+        "name": "describe",
+        "type": 1,
+        "options": [
+            {
+                "type": 3,
+                "name": "link",
+                "value": "$prompt$"
+            }
+        ],
+        "attachments": []
+    },
+    "nonce": "$nonce$",
+    "analytics_location": "slash_ui"
+}

@@ -1,0 +1,22 @@
+{
+    "type": 2,
+    "application_id": "$app_id$",
+    "guild_id": "$guild_id$",
+    "channel_id": "$channel_id$",
+    "session_id": "$session_id$",
+    "nonce": "$nonce$",
+    "data": {
+        "version": "1237876415471554623",
+        "id": "938956540159881230",
+        "name": "imagine",
+        "type": 1,
+        "options": [
+            {
+                "type": 3,
+                "name": "prompt",
+                "value": "$prompt$"
+            }
+        ],
+        "attachments": []
+    }
+}

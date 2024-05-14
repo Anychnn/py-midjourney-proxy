@@ -1,0 +1,39 @@
+{
+    "type": 2,
+    "application_id": "936929561302675456",
+    "guild_id": "1233678696364245002",
+    "channel_id": "1233678696364245005",
+    "session_id": "c38d67b8f1eded0b5603f44c31765817",
+    "data": {
+        "version": "1237876415735660565",
+        "id": "972289487818334209",
+        "name": "info",
+        "type": 1,
+        "options": [],
+        "application_command": {
+            "id": "972289487818334209",
+            "type": 1,
+            "application_id": "936929561302675456",
+            "version": "1237876415735660565",
+            "name": "info",
+            "description": "View information about your profile.",
+            "dm_permission": true,
+            "contexts": [
+                0,
+                1,
+                2
+            ],
+            "integration_types": [
+                0,
+                1
+            ],
+            "global_popularity_rank": 2,
+            "options": [],
+            "description_localized": "View information about your profile.",
+            "name_localized": "info"
+        },
+        "attachments": []
+    },
+    "nonce": "1239288436951613440",
+    "analytics_location": "slash_ui"
+}

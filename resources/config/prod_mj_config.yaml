@@ -1,0 +1,25 @@
+# midjourney的账号
+accounts:
+  - user_token: ""
+    bot_token: ""
+    guild_id: ""
+    channel_id: ""
+    app_id: ""
+    session_id: ""
+
+ng:
+  discord_ws: https://gateway.discord.gg
+  # discord_server: http://discordapi.aidomore.com/api/v9/interactions
+  discord_server: https://discord.com
+  discord_upload_server: https://discord-attachments-uploads-prd.storage.googleapis.com
+  
+common:
+  # 是否启动discord bot
+  launch_discord_bot: false
+  img_upload_url: ""
+
+redis:
+  host: 0.0.0.0
+  port: 6379
+  password: "123"
+  db: 0
