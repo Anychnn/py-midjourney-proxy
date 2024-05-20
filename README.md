@@ -84,4 +84,6 @@ Provides unofficial MJ/SD open API, add administrator WeChat for inquiries, plea
 
 If you find this project helpful, please consider giving it a star.
 
-[![Star History Chart](https://star-history.com/#Anychnn/py-midjourney-proxy&Date)](https://star-history.com/#Anychnn/py-midjourney-proxy&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Anychnn/py-midjourney-proxy&type=Date)](https://star-history.com/#Anychnn/py-midjourney-proxy&Date)
