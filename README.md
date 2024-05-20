@@ -6,7 +6,9 @@ English | [中文](./README_CN.md)
 
 An unofficial python implementation of the Discord proxy for MidJourney.
 
+One command to build your own MidJourney proxy server.
 </div>
+
 
 ## Main Functions
 
