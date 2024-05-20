@@ -6,7 +6,7 @@ English | [中文](./README_CN.md)
 
 An unofficial python implementation of the Discord proxy for MidJourney.
 
-One command to build your own MidJourney proxy server.
+Just one command to build your own MidJourney proxy server.
 </div>
 
 
@@ -26,12 +26,6 @@ One command to build your own MidJourney proxy server.
    to https://docs.midjourney.com/docs/quick-start
 2. Obtain user Token, server ID, channel ID: [Method of acquisition](./docs/discord-params.md)
 
-## Quick Start
-
-1. `Railway`: Based on the Railway platform, no need for your own server: [Deployment method](./docs/railway-start.md) ;
-   If Railway is not available, you can start using Zeabur instead.
-2. `Zeabur`: Based on the Zeabur platform, no need for your own server: [Deployment method](./docs/zeabur-start.md)
-3. `Docker`: Start using Docker on a server or locally: [Deployment method](./docs/docker-start.md)
 
 ## Local development
 
@@ -90,4 +84,4 @@ Provides unofficial MJ/SD open API, add administrator WeChat for inquiries, plea
 
 If you find this project helpful, please consider giving it a star.
 
-[![Star History Chart](https://github.com/Anychnn/py-midjourney-proxy/svg?repos=Anychnn/py-midjourney-proxy&type=Date)](https://star-history.com/#Anychnn/py-midjourney-proxy&Date)
+[![Star History Chart](https://star-history.com/#Anychnn/py-midjourney-proxy&Date)](https://star-history.com/#Anychnn/py-midjourney-proxy&Date)
